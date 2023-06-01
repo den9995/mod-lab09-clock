@@ -1,0 +1,4 @@
+clock/bin/*
+clock/obj/*
+clock/clock.csproj.user
+.vs/
